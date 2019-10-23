@@ -1,0 +1,11 @@
+/Users/Eville/Projects/see-sharp-demo/myApp/bin/Debug/netcoreapp3.0/myApp
+/Users/Eville/Projects/see-sharp-demo/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/Users/Eville/Projects/see-sharp-demo/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/Users/Eville/Projects/see-sharp-demo/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/Users/Eville/Projects/see-sharp-demo/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/Users/Eville/Projects/see-sharp-demo/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/Users/Eville/Projects/see-sharp-demo/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/Users/Eville/Projects/see-sharp-demo/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/Users/Eville/Projects/see-sharp-demo/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/Users/Eville/Projects/see-sharp-demo/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/Users/Eville/Projects/see-sharp-demo/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
